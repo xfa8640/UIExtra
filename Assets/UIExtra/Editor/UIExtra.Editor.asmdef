@@ -1,0 +1,16 @@
+{
+    "name": "UIExtra.Editor",
+    "rootNamespace": "UIExtra.Editor",
+    "references": [
+        "GUID:7d6aa029d46a1424489c3568f641adfe"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

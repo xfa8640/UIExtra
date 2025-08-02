@@ -1,0 +1,9 @@
+{
+  "name": "com.xfa8640.UIExtra",
+  "displayName": "UIExtra",
+  "version": "1.0.0",
+  "unity": "6000.0",
+  "description": "A versatile collection of UI components for Unity."
+  "license": "MIT",
+  "category": "UI"
+}
